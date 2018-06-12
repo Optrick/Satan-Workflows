@@ -4,11 +4,12 @@
   "description": "Satan hand workflow",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/Optrick/Satan-Workflows.git"
   },
   "author": "T00M OPTRICKMEDIA",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2",
     "gulp-util": "^3.0.8"
   },
   "dependencies": {
