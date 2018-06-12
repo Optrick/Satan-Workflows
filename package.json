@@ -6,5 +6,13 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "T00M OPTRICKMEDIA"
+  "author": "T00M OPTRICKMEDIA",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "minimatch": "^3.0.4"
+  }
 }
